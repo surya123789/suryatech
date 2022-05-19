@@ -1,0 +1,30 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Git checkout') {
+            steps {
+                // Get some code from a GitHub repository
+                git 'https://github.com/surya123789/evoketech.git'
+            }
+        stage('Create-Image') {
+                // Build the images from dockerfile
+			steps {
+				sh 'docker build -t="surya123789/pipeline:latest" .'
+			}
+	stage('Docker-login') {
+		        steps {
+		                sh 'docker login -u surya123789 -p aDm1n@123'
+			}
+	stage('Dockerpush') {
+			steps {
+				sh 'docker push surya123789/pipeline '
+			}
+	stage('create container') {
+			steps {
+				sh 'docker run -d -p 95:80 -v /home/ec2-user/surya:/var/www/html surya123789/pipeline'
+			}
+		}
+	}
+}
+     
