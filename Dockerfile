@@ -1,11 +1,9 @@
-FROM ubuntu:20.04
-MAINTAINER "surya@evoke.com"
+FROM ubuntu:16.04 
+MAINTAINER "info@gamutgurus.com"
 RUN apt-get update
-RUN apt-get install nginx -y
-ENV Host surya
-RUN rm -rf /usr/share/nginx/html/index.html
-COPY index.html /usr/share/nginx/html
-ENTRYPOINT service nginx restart && bash
-EXPOSE 80/tcp
-WORKDIR /usr/share/nginx/html
-VOLUME /var/www/html
+RUN apt-get install -y openjdk-8-jdk
+ENV JAVA_HOME /usr
+ADD apache-tomcat-8.5.38.tar.gz /root
+COPY target/gamutgurus.war /root/apache-tomcat-8.5.38/webapps
+ENTRYPOINT /root/apache-tomcat-8.5.38/bin/startup.sh && bash
+EXPOSE 8080/tcp
