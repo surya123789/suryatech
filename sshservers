@@ -1,0 +1,2045 @@
+Host    ulwlsalliance*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    dlwlsalliance*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+        
+Host    uswebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    uswebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    plwlsalliance*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlsalliance*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+        
+Host    pswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    ulwlsrim0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dltcerm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcerm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcerm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcerm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlapache0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User alfresco
+
+Host	qlapache0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User alfresco
+
+Host	ulapache0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User alfresco
+
+Host	plapache0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User alfresco
+
+Host	dwiisdmz0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qwiisdmz0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	uwiisdmz0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pwiisdmz0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcsbu0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcsbu0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcsbu0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcsbu0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlnpbuilder0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User deploy
+
+Host	qlnpbuilder0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User deploy
+
+Host	plnpbuilder0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User deploy
+
+Host	dltcdbs*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcdbs*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcdbs*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcdbs*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dldbmtomcat0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qldbmtomcat0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	uldbmtomcat0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pldbmtomcat*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plnpworker01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plnpworker02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plnpworker03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User acctmgr
+
+Host	plnpworker04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User acctmgr
+
+Host	dlnpworker01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User acctmgr
+
+Host	dlnpworker03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User acctmgr
+
+Host	qlnpworker01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User deploy
+
+Host	qlnpworker02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User deploy
+
+Host	qlnpworker03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User acctmgr
+
+Host	qlnpworker04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User acctmgr
+
+Host	dltcnemo0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcnemo0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcnemo0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcnemo0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcnemo0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcmdmapi0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcmdmapi0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcmdmapi0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltccdm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltccdm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultccdm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltccdm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qlwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ulwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User cdsctm
+
+Host	dltclms0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltclms0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultclms0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltclms0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltopbraid01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltccapache0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltccapache0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlpfmapid0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qlpfmapiq0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ulpfmapiu0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plpfmapiu0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcpega0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcpega0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcpega0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcpega0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlnpapp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qlnpapp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ulnpapp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plnpapp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcetp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcetp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcetp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcetp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltomcat*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltomcat*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultomcat*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltomcat*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcpci0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcpci0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcirec0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcirec0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcirec0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcirec0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlwlsosb0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	qlwlsosb0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	ulwlsosb0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	plwlsosb0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dltcmmfeed0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcmmfeed0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcmmfeed0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltccls0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltccls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultccls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlucclflist0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qlucclflist0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ulucclflist0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltccls11.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    dswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User gwillie
+
+Host    uswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User gwillie
+
+Host    qswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User gwillie
+
+Host    pswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User gwillie
+
+Host    dlwlspega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+
+Host    ulweblogic*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlspega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	pltccls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcirecext*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    ulwlspega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plwlspega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    dlus1urlfapp*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plburlf*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dlwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User eccmsusr
+
+Host	qlwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User eccmsusr
+
+Host	ulwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User eccmsusr
+
+Host	plwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User eccmsusr
+
+Host	plwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dldocbase0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	uldocbase0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pldocbase0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qldocbase0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User ebsuser
+
+Host	qlwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User ebsuser
+
+Host	ulwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User ebsuser
+
+Host	plwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User ebsuser
+
+Host	dltcfax0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcfax0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcfax0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcfax0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	plmigrator02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcjenkinsbuild
+
+Host	dlapptech01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcjenkinsbuild
+
+Host	pltower01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcjenkinsbuild
+
+Host	dldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmfeeder 
+
+Host	qldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmfeeder 
+
+Host	uldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmfeeder 
+
+Host	pldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmfeeder 
+
+Host	pldbmfeed03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	dldbmfeed03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	dldbmcrawler*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	qldbmfeed03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	qldbmcrawler*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	pldbmcrawler1*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	dldbmemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User lvemail 
+
+Host	qldbmemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User lvemail 
+
+Host	uldbmemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User lvemail 
+
+Host	pldbmemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User lvemail 
+
+Host	dldpdn*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	qldpdn*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host    qldpcm*.wil.csc.local	
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	uldpdn*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	pldpdn*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User detpl 
+
+Host	dwpega0*.cscinfo.com
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcpegauser 
+
+Host	qwpega0*.cscinfo.com
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcpegauser 
+
+Host	uwpega0*.cscinfo.com
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcpegauser 
+
+Host	pwpega0*.cscinfo.com
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User svcpegauser 
+
+Host	dldbmcrawler*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	qldbmcrawler*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	uldbmcrawler*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	pldbmcrawler*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	dldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	qldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	uldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	pldbmfeed*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbmcrawler 
+
+Host	dltcauth*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat 
+
+Host	qltcauth*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat 
+
+Host	ultcauth*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat 
+
+Host	pltcauth*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat 
+
+Host	plazurlfapp*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic 
+
+Host	ulwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+
+Host	plwebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+
+Host	dlapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	dltccapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	qlapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	qltccapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	ulapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	ultccapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	plapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	pltccapache*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	dlapachepega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	qlapachepega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	ulapachepega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	plapachepega*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpsync
+
+Host	plprismlab01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User nutanix
+
+Host	dlweblogicvm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	qlweblogicvm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	ulweblogicvm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	plweblogicvm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dlapache0*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpdmin
+
+Host	qlapache0*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpdmin
+
+Host	ulapache0*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpdmin
+
+Host	plapache0*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User httpdmin
+
+Host	dltomcat2*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	qltomcat2*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	ultomcat2*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	pltomcat2*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	dlwlclsmm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	qlwlclsmm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	ulwlclsmm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	plwlclsmm*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dlwlclsweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	qlwlclsweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	ulwlclsweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	plwlclsweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dlsolrcls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	qlsolrcls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	ulsolrcls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	plsolrcls*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User solr
+
+Host	dltcclsemdep*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcclsemdep*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclsemdep*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcclsemdep*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dlclsprint*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+
+Host	qlclsprint*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+
+Host	ulclsprint*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+
+Host	plclsprint*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+	
+Host	dtcclsip*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qtcclsip*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclsip*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	pltcclsip*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	dltcclssop*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+	
+Host	qltcclssop*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclssop*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	pltcclssop*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	dltcclsapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+	
+Host	qltcclsapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclsapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	pltcclsapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	dltcclsemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User pfarmusr
+	
+Host	qltcclsemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclsemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	pltcclsemail*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	dltcclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat		
+	
+Host	qltcclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	ultcclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat	
+	
+Host	pltcclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat		
+	
+Host	ultcfinvertex0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	dltcclscm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclscm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcclscm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qlclswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User eccmsusr
+	
+Host	ulclswebaux0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User eccmsusr	
+
+Host	dltcmm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcmm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcmm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcmm0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcnp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcnp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcnp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcnp0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcclsfsrv*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcclsfsrv*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclsfsrv*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcclsfsrv*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcclsdeapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcclsdeapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcclsdeapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcclsdeapi*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    dlwlclsnyfst*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlclsnyfst*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    ulwlclsnyfst*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plwlclsnyfst*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    dlwlclsgatew*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlclsgatew*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    ulwlclsgatew*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plwlclsgatew*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    dlwlclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    ulwlclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plwlclsem*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    dlcdsmgt0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User websync
+
+Host    qlbrndcir0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User websync
+
+Host    ulbrndcir0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User websync
+
+Host    plbrndcir0*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User websync
+
+Host    dldnsaxfr1*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbsaxfrusr
+
+Host    uldnsaxfr1*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbsaxfrusr
+
+Host    pldnsaxfr1*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User dbsaxfrusr
+
+Host    dlwebaux09.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User webaux
+
+Host    dltcclscmuser*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    qltcclscmuser*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    ultcclscmuser*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    pltcclscmuser*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    dltcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    qltcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    ultcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    pltcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    dltcclscmweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    qltcclscmweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    ultcclscmweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    pltcclscmweb*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    dltcclscmbulk*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    qltcclscmbulk*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    ultcclscmbulk*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    pltcclscmbulk*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host    dlwlsrim*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlsrim*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    ulwlsrim*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plwlsrim*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    dlwlclscfrec*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    qlwlclscfrec*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    ulwlclscfrec*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host    plwlclscfrec*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	dltcfindw*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcfindw*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcfindw*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcfindw*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	dltcfin*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	dltcfinepywb*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+	StrictHostKeyChecking no
+	user tomcat
+	
+Host	dlfinvertex*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+	StrictHostKeyChecking no
+	user ebsuser
+		
+Host	qlfinvertex*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+	StrictHostKeyChecking no
+	user ebsuser
+		
+Host	ulfinvertex*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+	StrictHostKeyChecking no
+	user ebsuser
+	
+Host	plfinvertex*.wil.csc.local
+	IdentityFile ~/.ssh/id_rsa
+	StrictHostKeyChecking no
+	user ebsuser
+	
+Host	dltcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	pltcclscmui*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	PHASE3WJCLHU6-*.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcerm08.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcerm09.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcerm11.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcetp01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltclms03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcmdmapi01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcnemo01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcnemo02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcpega01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltcsbu01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qltcsbu04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltomcat01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltomcat02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltomcat03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qltomcat05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	qlwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qlwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	qlwlsalliance01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+
+Host	qlwlsalliance05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance07.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance08.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance09.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance10.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	qlwlsalliance10.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	uldbmtomcat01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	uldbmtomcat02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ulnpapp01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ulnpapp02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ulpfmapiu01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ulpfmapiu02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultccdm03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultccdm04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcdbs01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs06.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs07.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcdbs08.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcerm04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm06.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm07.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcerm09.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcetp01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcetp02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcirecext05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcirecext06.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcirecext07.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+
+Host	ultcirecext08.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultclms03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultclms04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcmdmapi01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcmdmapi02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcpci01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcpci02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcpega01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcpega02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcsbu01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultcsbu02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat02.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat03.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat04.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat05.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat06.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat07.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ultomcat08.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ulwebaux01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User tomcat
+	
+Host	ulwlsalliance01.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	ulwlsalliance02.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	ulwlsalliance03.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	ulwlsalliance04.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	ulwlsrim01.wil.csc.local
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
+	
+Host	uswebaux01.wil.csc.local 
+        IdentityFile ~/.ssh/id_rsa
+        StrictHostKeyChecking no
+        User weblogic
